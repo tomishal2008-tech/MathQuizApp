@@ -1,9 +1,9 @@
-🧮 MathMaster Quiz
-A modern, interactive math quiz application built with React that helps students test and improve their mathematical skills through an engaging 5-minute assessment.
+🧮 MathQuizApp
+A modern, interactive math quiz application built with React that helps students test and improve their mathematical skills through an engaging 5-minute assessment.<br>
 ✨ Features
 
-📊 Instant Feedback - Get immediate results on your performance with detailed scoring
-🎯 Skill Assessment - Evaluate your math abilities across different topics
+📊 Instant Feedback - Get immediate results on your performance with detailed scoring <br>
+🎯 Skill Assessment - Evaluate your math abilities across different topics <br>
 🏆 Progress Tracking - See your score and areas for improvement in real-time
 🎨 Modern UI - Clean, gradient-based design with smooth animations
 📱 Responsive Design - Works seamlessly on desktop, tablet, and mobile devices

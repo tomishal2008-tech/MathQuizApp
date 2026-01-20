@@ -1,7 +1,7 @@
 🧮 MathQuizApp <br>
 A modern, interactive math quiz application built with React that helps students test and improve their mathematical skills through an engaging 5-minute assessment.
 <br>
-✨ Features
+✨ Features <br>
 📊 Instant Feedback - Get immediate results on your performance with detailed scoring <br>
 🎯 Skill Assessment - Evaluate your math abilities across different topics <br>
 🏆 Progress Tracking - See your score and areas for improvement in real-time <br>

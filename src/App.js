@@ -1,7 +1,7 @@
-import Quiz from "./Components/Quiz";
+import MathQuizApp from "./Components/MathQuizApp";
 
 function App() {
-  return <Quiz />;
+  return <MathQuizApp />;
 }
 
 export default App;

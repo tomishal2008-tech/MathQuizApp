@@ -1,4 +1,4 @@
-🧮 MathQuizApp
+🧮 MathQuizApp <br>
 A modern, interactive math quiz application built with React that helps students test and improve their mathematical skills through an engaging 5-minute assessment.
 <br>
 ✨ Features
